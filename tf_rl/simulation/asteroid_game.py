@@ -26,6 +26,7 @@ Details of AsteroidGame:
 TODO:
     Fix bug which makes hero unable to see beyond walls when not fixed to centre
     Make it clearer when hero is moving, when hero is fixed in the centre (background could move?)
+    Fix whatever bug is causing the hero not to flash red when colliding with an asteroid
 """
 
 import math
